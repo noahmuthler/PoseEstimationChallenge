@@ -1,4 +1,1 @@
-"# collegeCode" 
-"# collegeCode" 
-"# collegeCode" 
 "# PoseEstimationChallenge" 
